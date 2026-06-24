@@ -30,7 +30,7 @@
 
 <body class="bg-[#121212] text-white">
     <header>
-        <nav class="flex items-center justify-between w-[1100px] mx-auto py-5">
+        <nav class="flex items-center justify-between px-6 xl:px-0 w-[100%] lg:w-[1100px] mx-auto py-5">
             <div class="flex items-center gap-10">
                 <ul>
                     <li>
@@ -40,7 +40,7 @@
                         </a>
                     </li>
                 </ul>
-                <ul class="flex items-center gap-5">
+                <ul class="hidden lg:inline-flex items-center gap-5">
                     <li><a href="#x" class="text-[13px] font-semibold duration-300 hover:text-green-500">Product</a></li>
                     <li><a href="#x" class="text-[13px] font-semibold duration-300 hover:text-green-500">Developers</a></li>
                     <li><a href="#x" class="text-[13px] font-semibold duration-300 hover:text-green-500">Solutions</a></li>
@@ -50,13 +50,16 @@
                 </ul>
             </div>
             <div>
-                <ul class="flex items-center gap-2">
+                <ul class="hidden lg:inline-flex items-center gap-2">
                     <li><a href="#x" class="text-[11.5px] text-white/60 px-[10px] py-1 rounded-sm duration-300 hover:bg-white/10 hover:text-white">
                             <i class="fa-brands fa-github"></i>
                             <span>104.8K</span>
                         </a></li>
                     <li><a href="#x" class="text-[11.5px] bg-white/10 px-[10px] py-1 rounded-sm border border-white/10 duration-300 hover:bg-white/15">Sign in</a></li>
                     <li><a href="#x" class="text-[11.5px] bg-green-800 px-[10px] py-1 rounded-sm border border-white/10 duration-300 hover:bg-green-700 hover:border-green-400">Start your project</a></li>
+                </ul>
+                <ul class="block lg:hidden text-[20px] text-white/40">
+                    <li><a href="#x" class=""><i class="fa-solid fa-bars"></i></a></li>
                 </ul>
             </div>
         </nav>
