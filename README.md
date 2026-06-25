@@ -2,7 +2,7 @@
 
 # 🎨 TailwindCSS Landing Page
 
-A clean, modern, and fully responsive landing page — built with **HTML**, **CSS**, and **TailwindCSS**.
+A clean, modern, and fully responsive landing page — built with **HTML**, **CSS**, and **Tailwind CSS**.
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -49,3 +49,31 @@ It's designed to be lightweight, easy to understand. This template is ideal for 
 </div>
 
 ---
+
+## 🗂️ Project Structure
+
+```
+tailwindcss-landing-page/
+├── assets/                 # Static files
+│   └── logo/               # Logo's
+│   └── project-demo/       # Project preview
+├── README.md               # Project documentation
+├── index.html              # HTML + Tailwind CSS
+└── style.css               # Raw CSS codes
+```
+
+---
+
+## 🛠️ Built With
+
+- **HTML5** — Semantic page structure
+- **CSS3** — Layout and styling
+- **Tailwind CSS** — Utility classes, arbitrary values, flex/grid utilities, responsive modifiers
+
+---
+
+<div align="center">
+
+If you found this project helpful, please consider giving it a ⭐ — it helps a lot!
+
+</div>
