@@ -12,3 +12,9 @@ A clean, modern, and fully responsive landing page — built with **HTML**, **CS
 [Live Demo](https://dipu-ray.github.io/tailwindcss-landing-page/) · [GitHub](https://github.com/dipu-ray) · [LinkedIn](https://www.linkedin.com/in/dipu-ray/)
 
 </div>
+
+---
+
+**Started:** 25 June, 2026  
+**Last Updated:** 26 June, 2026  
+**Author:** Dipu Ray
