@@ -18,3 +18,34 @@ A clean, modern, and fully responsive landing page — built with **HTML**, **CS
 **Started:** 25 June, 2026  
 **Last Updated:** 26 June, 2026  
 **Author:** Dipu Ray
+
+---
+
+## 📖 Overview
+
+**TailwindCSS Landing Page** is a minimal, elegant, and fully responsive landing page template built with **HTML**, **CSS**, and **Tailwind CSS** — no frameworks beyond Tailwind CSS, no extra dependencies.
+
+It's designed to be lightweight, easy to understand. This template is ideal for developers, designers, and marketers who want a clean landing page website to learn from, customize, or use directly — whether it's for a personal project, product showcase, or professional business profile.
+
+---
+
+## ✨ Features
+
+- 🎨 **Modern, minimal UI** with a clean visual hierarchy and flexible Tailwind utilities
+- 🚀 **Conversion-focused layout** — high-impact hero section, features grid, social proof, and call-to-action sections
+- 📱 **Fully responsive** — built with a mobile-first approach that scales perfectly to tablet and desktop
+- ⚡ **HTML, CSS & Tailwind CSS** — no JavaScript frameworks or external libraries required
+- 🧩 **Semantic HTML structure** for optimal web accessibility and SEO performance
+- 🪶 **Lightweight & fast** — single-file utility structure without mandatory build tools or dependencies
+- 🛠️ **Easy to customize** — rapidly change themes, spacing, and typography using inline classes
+- 🌐 **Cross-browser compatible**
+
+---
+
+## 🖼️ Preview
+
+<div align="center">
+  <img src="./assets/project-demo/preview.png" alt="TailwindCSS Landing Page Preview" width="700">
+</div>
+
+---
